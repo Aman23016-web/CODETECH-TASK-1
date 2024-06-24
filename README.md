@@ -7,7 +7,7 @@ Mentor : Muzammil Ahmed
 
 Overview of the Project
 
- basic baniry calculation (addition,multiplication,division ,substraction) of the given numbeers.
+ Basic baniry calculation (addition,multiplication,division ,substraction) of the given numbeers.
 
 Project : Basic Calculator in Python Language
 

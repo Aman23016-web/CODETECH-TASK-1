@@ -1,13 +1,21 @@
 Name : Aman Rai
+
 Company :CODTECH IT SOLUTIONS
+
 ID : CT4PP2880
+
 Domain : Python 
+
 Duration : 20 June to 20 July
+
 Mentor : Muzammil Ahmed
+
 
 Overview of the Project
 
+
  Basic baniry calculation (addition,multiplication,division ,substraction) of the given numbeers.
+
 
 Project : Basic Calculator in Python Language
 
